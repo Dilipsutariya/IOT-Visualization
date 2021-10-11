@@ -1,0 +1,69 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3746414406" file="/media/dilip/E/Latrobe/Sem 4/IDP/Visualization/MindBogglers.prj" location="/media/dilip/E/Latrobe/Sem 4/IDP/Visualization" name="MindBogglers" target="target.mlapps" target-name="Package App">
+    <param.appname>MindBogglers</param.appname>
+    <param.authnamewatermark>Dilip</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.version>1.0</param.version>
+    <param.products.name>
+      <item>MATLAB</item>
+    </param.products.name>
+    <param.products.id>
+      <item>1</item>
+    </param.products.id>
+    <param.products.version>
+      <item>9.11</item>
+    </param.products.version>
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>e9765e73-c4a0-44c2-8bf2-8d4e7f944ce7</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/MindBogglers.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}/iot.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/media/dilip/E/Latrobe/Sem 4/IDP" name="Visualization" optional="false">/media/dilip/E/Latrobe/Sem 4/IDP/Visualization</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/media/dilip/E/Latrobe/MATLAB/R2021b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>false</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>true</linux>
+      <solaris>false</solaris>
+      <osver>5.4.0-88-generic</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>glnxa64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
