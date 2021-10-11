@@ -8,14 +8,14 @@ To Run this Code follow below steps.
 4. Click on run the application.
 
 Using the app
-Channel ID: Enter the channel ID for the channel if interest.
-ReadAPIKey: Enter ReadAPIKey for private channels
-StartDate: Start Date the selcted data. The time will start at 12:00 AM unless otherwise selected.
-StartHour: Start Hour
-Min: Start Minute to read the data.
-AM/PM: Ante Meridian, Post Meridian
-Duration: Select the time from that you want to plot the data from the start date and time.
-Compare Length: The time difference between the selcted date and the older time period.(Future Enhancement)
-F1 through F8: Check box to include a particular field, if data is available.
-Update: Display the Plots using given filter.
-Quit: Stop the program and delete the UI figure.
+a. Channel ID: Enter the channel ID for the channel if interest.
+b. ReadAPIKey: Enter ReadAPIKey for private channels
+c. StartDate: Start Date the selcted data. The time will start at 12:00 AM unless otherwise selected.
+d. StartHour: Start Hour
+e. Min: Start Minute to read the data.
+f. AM/PM: Ante Meridian, Post Meridian
+g. Duration: Select the time from that you want to plot the data from the start date and time.
+h. Compare Length: The time difference between the selcted date and the older time period.(Future Enhancement)
+i. F1 through F8: Check box to include a particular field, if data is available.
+j. Update: Display the Plots using given filter.
+k. Quit: Stop the program and delete the UI figure.
